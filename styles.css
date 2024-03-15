@@ -1,0 +1,34 @@
+.display {
+  background-color: yellow;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+
+.drum-machine{
+  
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 20%;
+  padding-top:20vh;
+}
+
+.drum-pad {
+  position: relative;
+  display: inline-block;
+  width: 100px;
+  height: 80px;
+  margin-right: 10px;
+  border-radius: 5px;
+  padding-top: 35px;
+  box-sizing: border-box;
+  cursor: pointer;
+  background-color: grey;
+  margin-top:10px;
+  box-shadow:  black 3px 3px 5px;
+  text-align:center;
+  
+  
+}
